@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "automation-basics"
+owner:
+  username: "mrygrz8"
+  id: 282778034
+  accepted_at: "2026-10-09T11:36:25Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-automation-basics"
+  branch: "main"
